@@ -1,0 +1,132 @@
+digraph MyGraph {
+	B->@
+
+	@-><
+
+	<->8
+
+	8->n
+
+	null0[shape=point, color = white]
+	n-> null0
+	null1[shape=point, color = white]
+	n-> null1
+	8->4
+	4->O
+
+	null2[shape=point, color = white]
+	O-> null2
+	null3[shape=point, color = white]
+	O-> null3
+	4->p
+	null4[shape=point, color = white]
+	p-> null4
+	null5[shape=point, color = white]
+	p-> null5
+	<->5
+	5->2
+
+	2->s
+
+	null6[shape=point, color = white]
+	s-> null6
+	null7[shape=point, color = white]
+	s-> null7
+	2->w
+	null8[shape=point, color = white]
+	w-> null8
+	null9[shape=point, color = white]
+	w-> null9
+	5->t
+	null10[shape=point, color = white]
+	t-> null10
+	null11[shape=point, color = white]
+	t-> null11
+	@->=
+	=->6
+
+	6->h
+
+	null12[shape=point, color = white]
+	h-> null12
+	null13[shape=point, color = white]
+	h-> null13
+	6->i
+	null14[shape=point, color = white]
+	i-> null14
+	null15[shape=point, color = white]
+	i-> null15
+	=->7
+	7->1
+
+	1->M
+
+	null16[shape=point, color = white]
+	M-> null16
+	null17[shape=point, color = white]
+	M-> null17
+	1->c
+	null18[shape=point, color = white]
+	c-> null18
+	null19[shape=point, color = white]
+	c-> null19
+	7->3
+	3->j
+
+	null20[shape=point, color = white]
+	j-> null20
+	null21[shape=point, color = white]
+	j-> null21
+	3->k
+	null22[shape=point, color = white]
+	k-> null22
+	null23[shape=point, color = white]
+	k-> null23
+	B->A
+	A->>
+
+	>->;
+
+	;->a
+
+	null24[shape=point, color = white]
+	a-> null24
+	null25[shape=point, color = white]
+	a-> null25
+	;->m
+	null26[shape=point, color = white]
+	m-> null26
+	null27[shape=point, color = white]
+	m-> null27
+	>-> 
+	null28[shape=point, color = white]
+	 -> null28
+	null29[shape=point, color = white]
+	 -> null29
+	A->?
+	?->9
+
+	9->r
+
+	null30[shape=point, color = white]
+	r-> null30
+	null31[shape=point, color = white]
+	r-> null31
+	9->d
+	null32[shape=point, color = white]
+	d-> null32
+	null33[shape=point, color = white]
+	d-> null33
+	?->:
+	:->e
+
+	null34[shape=point, color = white]
+	e-> null34
+	null35[shape=point, color = white]
+	e-> null35
+	:->o
+	null36[shape=point, color = white]
+	o-> null36
+	null37[shape=point, color = white]
+	o-> null37
+}
